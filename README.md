@@ -1,4 +1,4 @@
--Hi, I’m Toqa Alaa
+-I’m Toqa Alaa
 -I’m interested in programming and data analysis
 -I’m currently learning computer science engineering at EJUST University
 -You can reach me via email 'toqa22.alaa@gmail.com'
