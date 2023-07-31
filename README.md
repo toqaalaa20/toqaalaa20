@@ -18,6 +18,7 @@
 - :zap: I solve problems on codeforces, leetcode, and codechef
 - :seedling: Currently developing my skills as a Computer Vision Engineer
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toqa-alaa-aa53ab21a/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red)](toqa.alaa@ejust.edu.eg)
+- 
 
 
 ---
