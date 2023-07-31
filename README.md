@@ -41,7 +41,7 @@
 
 --- 
 
-### Ongoing projects:
+### Ongoing Projects:
 - Automated detection of defetcs on Metal surfaces using deep learning techniques and Vision transform
 - A Collaborator on "An Application for Moving-Object Removal in Unlabeled Image Databases" As an Intern at https://technocolabs.com/
 
