@@ -11,6 +11,7 @@
 </h1>
 </div>
 
+
 ---
 
 ### :woman_technologist: About Me :
@@ -26,9 +27,18 @@
 <a href="https://leetcode.com/toqaalaa/">
     <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Alt Text" width="35" height="40">
 </a>
-<a href="https://leetcode.com/toqaalaa/">
-    <img src="" alt="Alt Text" width="35" height="40">
+&nbsp
+
+<a href="https://codeforces.com/profile/toqaalaa">
+    <img src="https://github.com/toqaalaa20/toqaalaa20/assets/90696437/17b6bfa8-0d4a-49dd-a515-00d96226f5f8" alt="Alt Text" width="35" height="40">
 </a>
+&nbsp
+
+<a href="https://www.codechef.com/users/big_toqa">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="Alt Text" width="70" height="50">
+</a>
+
+
 --- 
 
 ### Ongoing projects:
