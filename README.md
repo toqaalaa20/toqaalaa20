@@ -16,6 +16,8 @@
 ### :woman_technologist: About Me :
 - :telescope: I'm a SENIOR CSE student at Egypt Japan University of Science and Technology.
 - :zap: I solve problems on codeforces, leetcode, and codechef
+My Profiles:
+
 - :seedling: Currently developing my skills as a Computer Vision Engineer
 - :mailbox: How to reach me: toqa.alaa@ejust.edu.eg
 - 
