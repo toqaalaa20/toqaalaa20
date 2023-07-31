@@ -30,7 +30,7 @@
 &nbsp
 
 <a href="https://codeforces.com/profile/toqaalaa">
-    <img src="https://github.com/toqaalaa20/toqaalaa20/assets/90696437/17b6bfa8-0d4a-49dd-a515-00d96226f5f8" alt="Alt Text" width="35" height="40">
+    <img src="https://github.com/toqaalaa20/toqaalaa20/assets/90696437/1daf6172-d3ec-420c-8dce-92d02b636a6d" alt="Alt Text" width="35" height="40">
 </a>
 &nbsp
 
