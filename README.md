@@ -29,10 +29,6 @@
 </a>
 &nbsp
 
-<a href="https://codeforces.com/profile/toqaalaa">
-    <img src="https://github.com/toqaalaa20/toqaalaa20/assets/90696437/1daf6172-d3ec-420c-8dce-92d02b636a6d" alt="Alt Text" width="35" height="40">
-</a>
-&nbsp
 
 <a href="https://www.codechef.com/users/big_toqa">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="Alt Text" width="70" height="50">
