@@ -16,7 +16,6 @@
 
 ### :woman_technologist: About Me :
 - :telescope: I'm a SENIOR CSE student at Egypt Japan University of Science and Technology
-- :zap: I solve problems on codeforces, leetcode, and codechef
 - :seedling: Currently developing my skills as a Computer Vision Engineer
 - :mailbox: How to reach me: toqa.alaa@ejust.edu.eg
 
@@ -67,7 +66,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toqaalaa20&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=toqaalaa20&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toqaalaa20&layout=compact&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
