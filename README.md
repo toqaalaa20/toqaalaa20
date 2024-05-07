@@ -1,9 +1,9 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I'm a SENIOR CSE student at Egypt Japan University of Science and Technology
-- :seedling: Currently developing my skills as a Computer Vision Engineer
-- :mailbox: How to reach me: toqa.alaa@ejust.edu.eg
+- I'm a Senior CSE student at Egypt Japan University of Science and Technology
+- Currently developing my skills as a Machine Learning Engineer
+- How to reach me: toqa.alaa@ejust.edu.eg
 
 --- 
 
@@ -19,12 +19,6 @@
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="Alt Text" width="70" height="50">
 </a>
 
-
---- 
-
-### Ongoing Projects:
-- Automated detection of defetcs on Metal surfaces using deep learning techniques and Vision transform
-- A Collaborator on "An Application for Moving-Object Removal in Unlabeled Image Databases" As an Intern at https://technocolabs.com/
 
 
 
