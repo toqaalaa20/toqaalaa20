@@ -15,9 +15,6 @@
 &nbsp
 
 
-<a href="https://www.codechef.com/users/big_toqa">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="Alt Text" width="70" height="50">
-</a>
 
 
 
