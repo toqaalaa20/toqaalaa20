@@ -2,7 +2,6 @@
 
 ### :woman_technologist: About Me :
 - I'm a Senior CSE student at Egypt Japan University of Science and Technology
-- Currently developing my skills as a Machine Learning Engineer
 - How to reach me: toqa.alaa@ejust.edu.eg
 
 --- 
