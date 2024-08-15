@@ -4,16 +4,6 @@
 - I'm a Senior CSE student at Egypt Japan University of Science and Technology
 - How to reach me: toqa.alaa@ejust.edu.eg
 
---- 
-
-### My Problem-Solving platforms profiles:
-
-<a href="https://leetcode.com/toqaalaa/">
-    <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Alt Text" width="35" height="40">
-</a>
-&nbsp
-
-
 
 
 
