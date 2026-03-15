@@ -1,11 +1,22 @@
+<div align="center">
 
+# Toqa Alaa Awad
+### AI Engineer | Master’s Candidate in Artificial Intelligence
 
-### :woman_technologist: About Me :
-- I'm a Senior CSE student at Egypt Japan University of Science and Technology
-- How to reach me: toqa.alaa@ejust.edu.eg
+</div>
 
+* I am currently pursuing my Master’s degree in AI.
+* Previously, as a Junior Research Software Engineer, I built scalable LLM workflows, RAG pipelines, and AI agents.
+* I have published research in Computer Vision, including work on Vision Transformers for defect detection and a comprehensive review of video summarization techniques.
 
+## Technical Skills
+* **Languages:** Python, Java, C++, C.
+* **AI/ML:** PyTorch, TensorFlow, LangChain, LangGraph, Scikit-learn, OpenCV.
+* **Cloud & DevOps:** Docker, AWS, FastAPI, Celery, Redis.
 
+## Get In Touch
+* **Email:** toqa22.alaa@gmail.com
+* **LinkedIn:** [linkedin.com/in/toqa-alaa-aa53ab21a](https://linkedin.com/in/toqa-alaa-aa53ab21a)
 
 
 ---
