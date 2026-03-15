@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Toqa Alaa Awad
-### AI Engineer | Master’s Candidate in Artificial Intelligence
+### Master’s Candidate in Artificial Intelligence | AI Engineer
 
 </div>
 
